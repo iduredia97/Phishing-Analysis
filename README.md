@@ -1,7 +1,10 @@
 # Phishing Campaign Analysis
 
 ##  Overview
-This repository documents my analysis of a financially-themed phishing campaign delivering Agent Tesla (aka MSIL/AgentTesla), a .NET-based credential stealer and ransomware.  📄 View my full report [here](https://github.com/iduredia97/Phishing-Analysis/blob/main/Idus%20Phishing%20Campaign%20Analysis%20Report.pdf).
+This repository documents my analysis of a financially-themed phishing campaign delivering Agent Tesla (aka MSIL/AgentTesla), a .NET-based credential stealer and ransomware.
+## 📑 Full Report
+For a detailed write-up of the analysis, including methodology, findings, and recommendations:  
+👉 [View the full report (PDF)](https://github.com/iduredia97/Phishing-Analysis/blob/main/From-Inbox-to-Intrusion-Unmasking-a-Phishing-Campaign-Delivering-Agent-Tesla%20(1).pdf)
 
 
 ## 🧰 Tools & Techniques
